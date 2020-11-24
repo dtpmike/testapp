@@ -1,0 +1,76 @@
+{
+  "_from": "com-infobip-plugins-mobilemessaging",
+  "_id": "com-infobip-plugins-mobilemessaging@1.6.3",
+  "_inBundle": false,
+  "_integrity": "sha512-q55t98i+oHofePAjfy2otQd7jsRikYh41UZNXIMPtiq68SJrhgP2YXyhs0rGFb9o+XnIowl71Ei5iDifFTY8bg==",
+  "_location": "/com-infobip-plugins-mobilemessaging",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "com-infobip-plugins-mobilemessaging",
+    "name": "com-infobip-plugins-mobilemessaging",
+    "escapedName": "com-infobip-plugins-mobilemessaging",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-infobip-plugins-mobilemessaging/-/com-infobip-plugins-mobilemessaging-1.6.3.tgz",
+  "_shasum": "23c4bd29d112c2416f078dec9acff879b76aac73",
+  "_spec": "com-infobip-plugins-mobilemessaging",
+  "_where": "C:\\worked\\test_app",
+  "author": {
+    "name": "Infobip Mobile Messaging Team"
+  },
+  "bugs": {
+    "url": "https://github.com/infobip/mobile-messaging-cordova-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com-infobip-plugins-mobilemessaging",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Infobip Mobile Messaging Cordova Plugin",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-browserify": "^5.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "watchify": "^3.9.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "homepage": "https://github.com/infobip/mobile-messaging-cordova-plugin#readme",
+  "keywords": [
+    "infobip",
+    "push",
+    "cordova",
+    "plugin",
+    "messaging",
+    "android",
+    "ios"
+  ],
+  "license": "Apache 2.0",
+  "main": "www/MobileMessagingCordova.js",
+  "name": "com-infobip-plugins-mobilemessaging",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infobip/mobile-messaging-cordova-plugin.git"
+  },
+  "scripts": {
+    "test": "node_modules/karma/bin/karma start"
+  },
+  "version": "1.6.3"
+}

@@ -1,0 +1,10 @@
+{
+  "com-infobip-plugins-mobilemessaging": {
+    "source": {
+      "type": "registry",
+      "id": "com-infobip-plugins-mobilemessaging"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
